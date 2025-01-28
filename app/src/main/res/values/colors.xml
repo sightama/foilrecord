@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme colors -->
+    <color name="primary">#FF8C42</color>          <!-- Warm orange -->
+    <color name="primary_dark">#E67E3B</color>     <!-- Deeper orange -->
+    <color name="primary_darker">#CC6A2F</color>   <!-- Rich rustic orange -->
+
+    <color name="secondary">#6B705C</color>        <!-- Warm grey -->
+    <color name="secondary_dark">#565B49</color>   <!-- Deeper grey -->
+    <color name="secondary_darker">#3F4236</color> <!-- Dark olive grey -->
+
+    <!-- Accent colors -->
+    <color name="accent_light">#FFB997</color>     <!-- Peach -->
+    <color name="accent_dark">#A68A7B</color>      <!-- Taupe -->
+
+    <!-- Background tones -->
+    <color name="background_light">#F8F4F1</color> <!-- Warm white -->
+    <color name="background_dark">#2C2824</color>  <!-- Deep brown-grey -->
+
+    <!-- Surface colors -->
+    <color name="surface_light">#FFFFFF</color>    <!-- Pure white -->
+    <color name="surface_dark">#1F1B17</color>     <!-- Rich dark brown -->
+
+    <!-- Text colors -->
+    <color name="text_primary_light">#2C2824</color>    <!-- Dark grey-brown -->
+    <color name="text_secondary_light">#6B705C</color>  <!-- Medium warm grey -->
+    <color name="text_primary_dark">#F8F4F1</color>     <!-- Warm white -->
+    <color name="text_secondary_dark">#B4B4A9</color>   <!-- Light warm grey -->
+
+    <!-- Status bar colors -->
+    <color name="status_bar_light">#CC6A2F</color>      <!-- Dark orange -->
+    <color name="status_bar_dark">#1F1B17</color>       <!-- Deep brown -->
+
+    <!-- Common colors -->
+    <color name="error">#CF6679</color>                 <!-- Warm red -->
+    <color name="success">#7FA650</color>               <!-- Earthy green -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
