@@ -3,9 +3,11 @@ package com.lkubicki.foilrecord.ui.main
 import androidx.lifecycle.viewModelScope
 import com.lkubicki.foilrecord.data.repository.RunRepository
 import com.lkubicki.foilrecord.ui.base.BaseViewModel
+import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
+@HiltViewModel
 class MainViewModel @Inject constructor(
     private val runRepository: RunRepository
 ) : BaseViewModel<MainState, MainEvent>() {

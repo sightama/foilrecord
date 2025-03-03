@@ -2,7 +2,7 @@
 # AndroidX
 androidx-lifecycle = "2.6.2"
 androidx-room = "2.6.1"
-androidx-compose-bom = "2023.10.01"
+androidx-compose-bom = "2024.02.00"
 androidx-datastore = "1.0.0"
 androidx-navigation = "2.7.5"
 androidx-activity = "1.8.1"
